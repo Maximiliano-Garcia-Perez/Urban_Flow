@@ -19,3 +19,7 @@
 - Implementación de la clase FineAnalyzer.
 - Métodos: ranking_patentes, ranking_horarios, exceso_promedio,
   exceso_real_promedio, multas_por_ubicacion.
+
+## Sprint 1 - Día 5 (Ejercicio 05)
+- Gráficos: top 10 patentes, torta por hora, barras por mes,
+  líneas por hora 00:00 y por fecha 1932-01-01.
