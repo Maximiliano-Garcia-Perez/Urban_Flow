@@ -50,3 +50,7 @@
 - Limpieza de ubicaciones con spaCy (stop words + lemma).
 - Matching patentes imagen/dataset (umbral 80%).
 - Dataset final guardado en data/processed/.
+
+## Sprint 2 - Día 5 (Ejercicio 05)
+- Métricas: multas con/sin imagen, imágenes sin match,
+  multas pendientes y pendientes con imagen.
