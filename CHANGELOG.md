@@ -42,3 +42,11 @@
 - Suavizado Gaussian Blur.
 - Detección de bordes Canny.
 - Imágenes guardadas en data/interim/imgs/.
+
+## Sprint 2 - Día 4 (Ejercicio 04)
+- Extracción de patentes con EasyOCR.
+- Limpieza de ubicaciones con NLTK (stop words + stem).
+- Estadísticas de texto con textstat.
+- Limpieza de ubicaciones con spaCy (stop words + lemma).
+- Matching patentes imagen/dataset (umbral 80%).
+- Dataset final guardado en data/processed/.
