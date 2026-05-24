@@ -54,3 +54,6 @@
 ## Sprint 2 - Día 5 (Ejercicio 05)
 - Métricas: multas con/sin imagen, imágenes sin match,
   multas pendientes y pendientes con imagen.
+
+## Sprint 2 - Día 6 (Ejercicio 06)
+- Conclusión Sprint 2 escrita en README.md.
