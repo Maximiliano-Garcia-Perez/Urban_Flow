@@ -23,3 +23,6 @@
 ## Sprint 1 - Día 5 (Ejercicio 05)
 - Gráficos: top 10 patentes, torta por hora, barras por mes,
   líneas por hora 00:00 y por fecha 1932-01-01.
+
+## Sprint 1 - Día 6 (Ejercicio 06)
+- Análisis de porcentajes de registros con fecha y hora inválida.
