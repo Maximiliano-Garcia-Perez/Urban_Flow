@@ -30,3 +30,9 @@
 ## Sprint 2 - Día 1 (Ejercicio 01)
 - Creación de rama Sprint_2 a partir de Sprint_1.
 - Descarga y descompresión del dataset de imágenes.
+
+## Sprint 2 - Día 2 (Ejercicio 02)
+- Listado de imágenes con tamaño en kb.
+- Clasificación en grupos 'plates' y 'completes'.
+- Creación y guardado del diccionario group_images.
+- Función reutilizable mostrar_imagenes_grid.
