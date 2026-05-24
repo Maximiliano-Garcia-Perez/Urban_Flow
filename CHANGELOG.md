@@ -8,3 +8,9 @@
 ## Sprint 1 - Día 2 (Ejercicio 02)
 - Descarga del dataset raw desde GitHub.
 - Análisis exploratorio: tipos de datos y valores nulos.
+
+## Sprint 1 - Día 3 (Ejercicio 03)
+- Normalización de fechas, horas, ubicaciones y patentes.
+- Eliminación de nulos y outliers.
+- Creación de columnas exceso_velocidad_real y exceso_velocidad.
+- Dataset limpio guardado en data/interim/.
