@@ -14,3 +14,8 @@
 - Eliminación de nulos y outliers.
 - Creación de columnas exceso_velocidad_real y exceso_velocidad.
 - Dataset limpio guardado en data/interim/.
+
+## Sprint 1 - Día 4 (Ejercicio 04)
+- Implementación de la clase FineAnalyzer.
+- Métodos: ranking_patentes, ranking_horarios, exceso_promedio,
+  exceso_real_promedio, multas_por_ubicacion.
