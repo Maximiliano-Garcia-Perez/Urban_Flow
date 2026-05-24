@@ -26,3 +26,7 @@
 
 ## Sprint 1 - Día 6 (Ejercicio 06)
 - Análisis de porcentajes de registros con fecha y hora inválida.
+
+## Sprint 2 - Día 1 (Ejercicio 01)
+- Creación de rama Sprint_2 a partir de Sprint_1.
+- Descarga y descompresión del dataset de imágenes.
