@@ -72,3 +72,7 @@
 ## Sprint 3 - Día 1 (Ejercicio 01)
 - Creación de rama Sprint_3 a partir de Sprint_2.
 - Verificación de acceso a los datasets generados.
+
+## Sprint 3 - Día 2 (Ejercicio 02)
+- Inicialización de DVC y remote local en /content/remote_dvc.
+- Migración de archivos binarios (imágenes y ZIP) de git a DVC.
