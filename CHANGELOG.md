@@ -99,3 +99,6 @@
 ## Sprint 3 - Día 8 (Ejercicio 08)
 - Base de datos vectorial patente_vectorial con OpenCLIP.
 - Vinculación de imágenes con el id de vehículo.
+
+## Sprint 3 - Día 9 (Ejercicio 09)
+- Función buscar_patente_imagen sobre la base vectorial.
