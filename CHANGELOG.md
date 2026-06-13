@@ -76,3 +76,7 @@
 ## Sprint 3 - Día 2 (Ejercicio 02)
 - Inicialización de DVC y remote local en /content/remote_dvc.
 - Migración de archivos binarios (imágenes y ZIP) de git a DVC.
+
+## Sprint 3 - Día 3 (Ejercicio 03)
+- Diseño del modelo lógico de entidades (POO), independiente de
+  la base de datos.
