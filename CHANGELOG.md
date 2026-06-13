@@ -36,3 +36,9 @@
 - Clasificación en grupos 'plates' y 'completes'.
 - Creación y guardado del diccionario group_images.
 - Función reutilizable mostrar_imagenes_grid.
+
+## Sprint 2 - Día 3 (Ejercicio 03)
+- Conversión a escala de grises con OpenCV.
+- Suavizado Gaussian Blur.
+- Detección de bordes Canny.
+- Imágenes guardadas en data/interim/imgs/.
