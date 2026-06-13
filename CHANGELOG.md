@@ -90,3 +90,8 @@
 ## Sprint 3 - Día 6 (Ejercicio 06)
 - Creación y población de la base de datos transito.
 - Validación de la cantidad de registros insertados.
+
+## Sprint 3 - Día 7 (Ejercicio 07)
+- Consultas sobre la base de datos: top patentes, multas sin
+  evidencia, radares más activos, reincidentes y porcentaje
+  de confirmación visual.
