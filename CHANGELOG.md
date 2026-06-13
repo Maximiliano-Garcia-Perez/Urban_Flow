@@ -80,3 +80,6 @@
 ## Sprint 3 - Día 3 (Ejercicio 03)
 - Diseño del modelo lógico de entidades (POO), independiente de
   la base de datos.
+
+## Sprint 3 - Día 4 (Ejercicio 04)
+- Implementación de la función procesar_fila_csv.
