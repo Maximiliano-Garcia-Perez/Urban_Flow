@@ -86,3 +86,7 @@
 
 ## Sprint 3 - Día 5 (Ejercicio 05)
 - Diseño del modelo relacional con el ORM de SQLAlchemy.
+
+## Sprint 3 - Día 6 (Ejercicio 06)
+- Creación y población de la base de datos transito.
+- Validación de la cantidad de registros insertados.
