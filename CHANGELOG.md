@@ -102,3 +102,6 @@
 
 ## Sprint 3 - Día 9 (Ejercicio 09)
 - Función buscar_patente_imagen sobre la base vectorial.
+
+## Sprint 3 - Día 10 (Ejercicio 10)
+- Conclusión del Sprint 3 escrita en README.md.

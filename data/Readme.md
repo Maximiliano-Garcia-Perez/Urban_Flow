@@ -51,3 +51,40 @@ Profesionalizar la solución incorporando persistencia en base de datos relacion
 
 ### Introducción y contexto
 El sistema creció en volumen y complejidad, por lo que se migra la información procesada en sprints anteriores a una base de datos estructurada y se prepara la búsqueda de vehículos por evidencia visual.
+
+## Conclusión Sprint 3
+
+En el Sprint 3 se profesionalizó la solución de Urban Flow migrando la
+información procesada en los sprints anteriores hacia una arquitectura de
+persistencia más robusta y escalable.
+
+### Persistencia relacional con SQLAlchemy
+
+- Se diseñó un modelo lógico de entidades (Vehículo, Multa, Radar y
+  Evidencia) con programación orientada a objetos, independiente de la
+  base de datos.
+- Ese modelo se tradujo a un modelo relacional con el ORM de SQLAlchemy,
+  definiendo claves primarias, claves foráneas y relaciones uno a muchos
+  (vehículo-multa, radar-multa) y uno a uno opcional (multa-evidencia).
+- La base de datos transito se creó y pobló automáticamente desde el CSV
+  procesado, evitando duplicar vehículos y radares.
+
+### Control de versiones de datos con DVC
+
+- Los archivos binarios (imágenes) se migraron de git a DVC, manteniendo
+  el repositorio liviano y versionando los datos en un remote local.
+
+### Búsqueda vectorial con OpenCLIP y ChromaDB
+
+- Se creó la base vectorial patente_vectorial, que asocia el vector de
+  cada imagen con el id del vehículo correspondiente.
+- La función buscar_patente_imagen permite recuperar, a partir de una
+  imagen, el vehículo más probable y todas sus multas, combinando la
+  base vectorial con la base relacional.
+
+### Conclusión general
+
+La integración de bases de datos relacional y vectorial demuestra cómo
+distintos tipos de almacenamiento se complementan: la relacional aporta
+consultas estructuradas y consistentes, mientras que la vectorial habilita
+búsquedas por similitud sobre datos no estructurados como las imágenes.
