@@ -83,3 +83,6 @@
 
 ## Sprint 3 - Día 4 (Ejercicio 04)
 - Implementación de la función procesar_fila_csv.
+
+## Sprint 3 - Día 5 (Ejercicio 05)
+- Diseño del modelo relacional con el ORM de SQLAlchemy.
