@@ -44,3 +44,10 @@ El Sprint 2 integró el procesamiento de imágenes con OpenCV y el análisis de 
 - El matching al 80 por ciento es una aproximación razonable; una
   implementación más robusta podría incorporar distancia de edición
   (Levenshtein) o corrección basada en contexto de dominio.
+
+## Sprint 3
+### Objetivo
+Profesionalizar la solución incorporando persistencia en base de datos relacional con el ORM de SQLAlchemy, control de versiones de datos con DVC y una base de datos vectorial para búsquedas por imagen.
+
+### Introducción y contexto
+El sistema creció en volumen y complejidad, por lo que se migra la información procesada en sprints anteriores a una base de datos estructurada y se prepara la búsqueda de vehículos por evidencia visual.

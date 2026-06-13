@@ -68,3 +68,7 @@
 - Limpieza de ubicaciones con spaCy (stop words + lemma).
 - Matching patentes imagen/dataset (umbral 80%).
 - Dataset final guardado en data/processed/.
+
+## Sprint 3 - Día 1 (Ejercicio 01)
+- Creación de rama Sprint_3 a partir de Sprint_2.
+- Verificación de acceso a los datasets generados.
