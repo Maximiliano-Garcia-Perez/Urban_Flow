@@ -50,3 +50,21 @@
 - Limpieza de ubicaciones con spaCy (stop words + lemma).
 - Matching patentes imagen/dataset (umbral 80%).
 - Dataset final guardado en data/processed/.
+<<<<<<< HEAD
+=======
+
+## Sprint 2 - Día 5 (Ejercicio 05)
+- Métricas: multas con/sin imagen, imágenes sin match,
+  multas pendientes y pendientes con imagen.
+
+## Sprint 2 - Día 6 (Ejercicio 06)
+- Conclusión Sprint 2 escrita en README.md.
+>>>>>>> e0ee7eb2c3d9084472d69733bcbc6fbf168015c4
+
+## Sprint 2 - Día 4 (Ejercicio 04)
+- Extracción de patentes con EasyOCR.
+- Limpieza de ubicaciones con NLTK (stop words + stem).
+- Estadísticas de texto con textstat.
+- Limpieza de ubicaciones con spaCy (stop words + lemma).
+- Matching patentes imagen/dataset (umbral 80%).
+- Dataset final guardado en data/processed/.
