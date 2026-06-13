@@ -95,3 +95,7 @@
 - Consultas sobre la base de datos: top patentes, multas sin
   evidencia, radares más activos, reincidentes y porcentaje
   de confirmación visual.
+
+## Sprint 3 - Día 8 (Ejercicio 08)
+- Base de datos vectorial patente_vectorial con OpenCLIP.
+- Vinculación de imágenes con el id de vehículo.
